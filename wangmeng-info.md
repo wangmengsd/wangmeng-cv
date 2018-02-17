@@ -1,6 +1,6 @@
 # Meng Wang (王萌)
 
-**Ph.D. Candidate** in **Computer Science**
+**Ph.D. Candidate** in **Department of Computer Science and Technology**
 
 **Xi'an Jiaotong University**
 
