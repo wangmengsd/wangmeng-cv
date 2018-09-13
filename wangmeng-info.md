@@ -1,14 +1,14 @@
 # Meng Wang (王萌)
 
-**Ph.D. Candidate** in **Department of Computer Science and Technology**
+**Lecturer** in **School of Computer Science and Engineering**
 
-**Xi'an Jiaotong University**
+**Southeast University**
 
-East Building #2,
+508, Building of Computer Science,
 
-Xi'an, Shannxi, China
+Nanjing, Jiangsu, China
 
-**Email:** [wangmengsd@stu.xjtu.edu.cn](mailto:wangmengsd@stu.xjtu.edu.cn)
+**Email:** [wangmengsd@outlook.com](mailto:wangmengsd@outlook.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
