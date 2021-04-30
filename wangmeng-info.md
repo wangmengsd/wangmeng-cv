@@ -5,5 +5,5 @@
 *   Richpedia [多模态知识图谱请访问](http://rich.wangmengsd.com/)   
 
 ****
-网站备案号 [陕ICP备17018265号-1](http://www.beian.miit.gov.cn/)
+网站备案号 [陕ICP备17018265号-1](http://beian.miit.gov.cn/)
 
